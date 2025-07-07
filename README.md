@@ -41,7 +41,6 @@ g++ -o student_manager stud.cpp
 ## ✨ Learnings from this Project
 
 - Gained hands-on experience with **file I/O** in C++
-- Learned how to perform **binary file operations**
 - Built a fully functional **menu-driven CLI application**
 - Strengthened understanding of **Object-Oriented Programming (OOP)**
 - Understood how to organize a simple project structure
